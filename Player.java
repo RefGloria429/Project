@@ -1,7 +1,7 @@
 import javafx.scene.paint.*;
 import javafx.scene.canvas.*;
 
-//this is an example object
+
 public class Player extends DrawableObject
 {
 	//takes in its position

@@ -229,7 +229,6 @@ public class Main extends Application
       public void handle(long currentTimeInNanoSeconds) 
       {
          
-        //while(runner == true)  //while loop does NOT work
         score.setText("Score is "+currentScore);
         highestScore.setText("High Score is "+highScore);
         
